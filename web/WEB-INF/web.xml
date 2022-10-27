@@ -8,6 +8,18 @@
         <servlet-name>sr_proveedores</servlet-name>
         <servlet-class>controlador.sr_proveedores</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>sr_login</servlet-name>
+        <servlet-class>controlador.sr_login</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>sr_ventas</servlet-name>
+        <servlet-class>controlador.sr_ventas</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>sr_ventas_detalle</servlet-name>
+        <servlet-class>controlador.sr_ventas_detalle</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>sr_clientes</servlet-name>
         <url-pattern>/sr_clientes</url-pattern>
@@ -15,6 +27,18 @@
     <servlet-mapping>
         <servlet-name>sr_proveedores</servlet-name>
         <url-pattern>/sr_proveedores</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>sr_login</servlet-name>
+        <url-pattern>/sr_login</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>sr_ventas</servlet-name>
+        <url-pattern>/sr_ventas</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>sr_ventas_detalle</servlet-name>
+        <url-pattern>/sr_ventas_detalle</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>

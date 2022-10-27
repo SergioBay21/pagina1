@@ -5,19 +5,22 @@
             <url>web/clientes.jsp</url>
             <bookmark id="1">
                 <name/>
-                <line>134</line>
+                <line>120</line>
                 <key/>
             </bookmark>
         </file>
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/sergi/OneDrive/Documentos/NetBeansProjects/web_proyecto_final/web/maestro_detalle_ventas.jsp</file>
             <file>file:/C:/Users/sergi/OneDrive/Documentos/NetBeansProjects/web_proyecto_final/web/proveedores.jsp</file>
-            <file>file:/C:/Users/sergi/OneDrive/Documentos/NetBeansProjects/web_proyecto_final/src/java/controlador/sr_clientes.java</file>
-            <file>file:/C:/Users/sergi/OneDrive/Documentos/NetBeansProjects/web_proyecto_final/src/java/controlador/sr_proveedores.java</file>
+            <file>file:/C:/Users/sergi/OneDrive/Documentos/NetBeansProjects/web_proyecto_final/src/java/controlador/sr_ventas.java</file>
+            <file>file:/C:/Users/sergi/OneDrive/Documentos/NetBeansProjects/web_proyecto_final/src/java/controlador/sr_ventas_detalle.java</file>
+            <file>file:/C:/Users/sergi/OneDrive/Documentos/NetBeansProjects/web_proyecto_final/src/java/modelo/productos.java</file>
             <file>file:/C:/Users/sergi/OneDrive/Documentos/NetBeansProjects/web_proyecto_final/src/java/modelo/clientes.java</file>
-            <file>file:/C:/Users/sergi/OneDrive/Documentos/NetBeansProjects/web_proyecto_final/src/java/modelo/proveedores.java</file>
+            <file>file:/C:/Users/sergi/OneDrive/Documentos/NetBeansProjects/web_proyecto_final/web/index.jsp</file>
             <file>file:/C:/Users/sergi/OneDrive/Documentos/NetBeansProjects/web_proyecto_final/web/clientes.jsp</file>
+            <file>file:/C:/Users/sergi/OneDrive/Documentos/NetBeansProjects/web_proyecto_final/src/java/modelo/empleados.java</file>
         </group>
     </open-files>
 </project-private>
